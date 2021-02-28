@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 //application de base pour mettre sur GitHub
 //testing yep
+//ok le projet est modifiable et fonctionne!
 void main() {
   runApp(MyApp());
 }
